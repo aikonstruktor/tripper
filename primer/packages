@@ -1,0 +1,14 @@
+strands-agents 'strands-agents[gemini]' strands-agents-tools python-dotenv
+google-adk python-dotenv
+fastmcp
+langchain langgraph langchain-openai langchain-groq
+
+langchain langgraph langchain-openai langchain-google-genai
+python-dotenv
+ipykernel
+jupyter 
+strands-agents strands-agents-tools strands-agents[openai] strands-agents-builder strands-agents-tools 
+strands-agents[gemini] 
+google-adk
+agent-framework
+langsmith
